@@ -1,0 +1,86 @@
+
+body {
+  background-color: #fdf1ec;
+}
+
+.wrapper {
+  height: 600px;
+  width: 705px;
+  margin: 50px auto;
+  border-radius: 7px 7px 7px 7px;
+  box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+}
+
+.product-img {
+  float: left;
+  background-repeat: no-repeat;
+  margin-top: 60px;
+  margin-left: 105px;
+  background-size: 105px;
+  width: 147px !important;
+  height: 583px !important;
+}
+
+
+.product-info {
+  margin-top: 50px;
+  margin-right: 50px;
+  float: right;
+  height: 420px;
+  width: 385px;
+  border-radius: 0 7px 10px 7px;
+  background-color: #ffffff;
+}
+
+.product-text {
+  height: 300px;
+  width: 327px;
+  font-family: 'Bentham', serif;
+}
+
+.titleInfo {
+  margin: 0 0 0 38px;
+  padding-top: 52px;
+  font-size: 34px;
+  color: #474747;
+}
+
+
+.discription {
+  margin: 10 0 25px 38px;
+  font-size: 13px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #d2d2d2;
+  letter-spacing: 0.2em;
+}
+
+.subtitleInfo {
+  height: 125px;
+  margin: 0 0 0 38px;
+  font-family: 'Playfair Display', serif;
+  color: #8d8d8d;
+  line-height: 1.7em;
+  font-size: 15px;
+  font-weight: lighter;
+  overflow: hidden;
+}
+
+
+.amountAlc {
+  font-family: 'Suranna';
+  color:#585858;
+  margin-top: 50px;
+  margin-left: 130px;
+  font-size: 34px;
+}
+
+span {
+  display: inline-block;
+  height: 50px;
+  font-family: 'Suranna', serif;
+  font-size: 34px;
+  margin-top: 20px;
+}
+
